@@ -1,0 +1,1 @@
+const mascotas = ['gato', 'perro', 'rata']
